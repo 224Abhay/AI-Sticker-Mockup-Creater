@@ -125,7 +125,7 @@ const Index = () => {
           <div className="flex items-center space-x-3">
             <div className="w-24 h-24 overflow-hidden">
               <img
-                src="/src/assets/Red Bull Racing Car Sticker.png"
+                src={`${import.meta.env.PROD ? '/AI-Sticker-Mockup-Creator' : ''}/logo.png`}
                 alt="Red Bull Racing Logo"
                 className="w-full h-full object-contain"
               />

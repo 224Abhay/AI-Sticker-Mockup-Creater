@@ -13,7 +13,7 @@ Transform your stickers into stunning mockups with the power of Google's Gemini 
 
 Experience the AI Sticker Mockup Creator in action:
 
-**[Click here to visit the site](https://224abhay.github.io/ai-sticker-mockup-creator/)**
+**[Click here to visit the site](https://224abhay.github.io/AI-Sticker-Mockup-Creator/)**
 
 ### Example
 
@@ -44,8 +44,8 @@ Before you begin, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/224Abhay/ai-sticker-mockup-creator.git
-cd ai-sticker-mockup-creator
+git clone https://github.com/224Abhay/AI-Sticker-Mockup-Creator.git
+cd AI-Sticker-Mockup-Creator
 ```
 
 ### 2. Install Dependencies
