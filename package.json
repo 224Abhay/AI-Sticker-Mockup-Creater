@@ -1,7 +1,8 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "ai-sticker-mockup-creator",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "homepage": "https://224abhay.github.io/ai-sticker-mockup-creator/",
   "type": "module",
   "scripts": {
     "dev": "vite",
